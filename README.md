@@ -1,4 +1,4 @@
-# GitDemo - Python Assignment 1
+# Git - Python Assignment 1
 ## Files
 
 - task_1.py – Do numbers input le kar unka addition, subtraction, multiplication aur division print karta hai.
